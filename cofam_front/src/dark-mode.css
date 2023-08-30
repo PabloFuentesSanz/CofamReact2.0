@@ -1,0 +1,23 @@
+.dark-mode {
+    background-color: #222;
+    color: #ddd;
+  }
+  
+  .dark-mode a {
+    color: #ddd;
+  }
+  
+  .dark-mode .form-control,
+  .dark-mode .btn {
+    background-color: #333;
+    color: #ddd;
+    border-color: #444;
+  }
+  
+  .dark-mode table tr td {
+    color: white !important;
+  }
+  
+  .dark-mode table th  {
+    color: white ;
+  }
